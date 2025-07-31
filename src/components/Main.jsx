@@ -24,6 +24,8 @@ const Main = () => {
 
         
         setTopText(topText)
+
+        
         setBottomText(bottomText)
     }
     return (

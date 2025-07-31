@@ -1,4 +1,4 @@
-import logo from '../assets/images/troll-face.png'
+import logo from '/images/troll-face.png'
 const Header = () => {
   return (
     <header className="bg-white shadow-md">
